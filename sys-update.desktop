@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=sys update
+Comment=Executa o script de manutenção do Arch Linux
+Exec= path/to/script/arch-update.sh
+Icon= path/to/icon/update.png
+Terminal=false
+Categories=System;Utility;
